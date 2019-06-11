@@ -1,3 +1,3 @@
 ### react tic-tac-toe 学习
 
-#### 测试
+#### React Dnd 官方DemoPractice
