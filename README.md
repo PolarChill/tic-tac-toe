@@ -1,3 +1,3 @@
-### react tic-tac-toe 学习
+### React学习 官方tic-tac-toe小游戏demo
 
-#### React Dnd 官方DemoPractice
+
